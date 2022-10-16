@@ -1,4 +1,4 @@
-<img src="https://github.com/crossmarkio/.github/blob/main/profile/banner.png" />
+<img src="https://github.com/crossmarkio/.github/blob/main/profile/banner-reduced.png" />
 
 ---
 ---
