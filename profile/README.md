@@ -8,7 +8,7 @@ CROSSMARK is a browser extension wallet built for interacting with the XRP Ledge
 ---
 ---
 
-Whirledlabs has three main goals with CROSSMARK and hopes to solve some of the current points of friction in the XRP ecosystem
+CROSSMARK has three main goals and hopes to solve some of the current points of friction in the XRP ecosystem
 
 - Provide an alternative to a mobile-first wallet to specifically serve webapps that are more suited for browser environments
 - Define and adopt a universal QR code structure for other wallets and builders for the XRP Ledger 
@@ -22,4 +22,4 @@ Since no browser-first wallet has been developed for the XRP Ledger, and the alr
 ---
 ---
 
-Whirledlabs has been a longtime supporter of the XRP Ledger for its speed, efficiency, and decentralization. CROSSMARK will be built on the XRP Ledger for these unique characteristic and will fill a void within the ecosystem. CROSSMARK will provide a unique utility to an already efficient ledger that will, one day, offer sophisticated financial operations, demanding secure and quick interactions.
+Our developers are longtime supporters of the XRP Ledger for its speed, efficiency, and decentralization. CROSSMARK will be built on the XRP Ledger for these unique characteristic and will fill a void within the ecosystem. CROSSMARK will provide a unique utility to an already efficient ledger that will, one day, offer sophisticated financial operations, demanding secure and quick interactions.
