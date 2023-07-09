@@ -12,8 +12,4 @@ CROSSMARK has three main goals and hopes to solve some of the current points of 
 - Define and adopt a universal QR code structure for other wallets and builders for the XRP Ledger
 - Provide a wallet that supports custom networks, network specific features, and hot swapping between networks. Our browser wallet will be architected with future features in mind, such as AMM and sidechain proposals.
 
----
-
----
-
 Our developers has been a longtime supporter of the XRP Ledger for its speed, efficiency, and decentralization. CROSSMARK will be built on the XRP Ledger for these unique characteristic and will fill a void within the ecosystem. CROSSMARK will provide a unique utility to an already efficient ledger that will, one day, offer sophisticated financial operations, demanding secure and quick interactions.
