@@ -1,4 +1,4 @@
-<img src="https://github.com/crossmarkio/.github-private/blob/main/profile/banner.png" />
+<img src="https://github.com/crossmarkio/.github/blob/main/profile/banner.png" />
 
 CROSSMARK is a browser extension wallet built for interacting with the XRP Ledger. CROSSMARK adds to an already diverse network of wallets and provides tooling for developers building decentralized applications on sidechains. The wallet will provide an easy way to switch between custom networks and will help bridge communities and cross-chain features.
 
